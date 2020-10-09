@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"WGU","l":"wgu"},{"m":"WGU","l":"wgu.controller"},{"m":"WGU","l":"wgu.model"}]
